@@ -22,7 +22,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 ## Schedule
 **Tuesday, April 8**
-- 2:30 - 2:35 pm: **Add your topic here! Example: [topic] - [full name, LinkedIn link]**
+- 2:30 - 2:35 pm:  Secure Access Management in Github Actions - [Neelam Mehta, https://uk.linkedin.com/in/neelam-mehta-7220b319]**
 - 2:35 - 2:40 pm: **A Platform to run a Bank on, in 4 simple steps - [Juan Herreros Elorza, https://www.linkedin.com/in/juan-herreros-elorza/] **
   
 **Wednesday, April 9**
